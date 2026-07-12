@@ -31,8 +31,9 @@ Rather than simply documenting syntax, it explains concepts, workflows, best pra
 
 ## Repository Contents
 
-- **Python_Developer_Handbook.pdf** — Published handbook
+📘 **[Download the Python Developer's Handbook](Python_Developer_Handbook.pdf)**
 
+The handbook is provided in PDF format for easy viewing and downloading.
 ---
 
 Author: **Robert "Skip" Voss**
