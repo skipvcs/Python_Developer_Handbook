@@ -1,6 +1,6 @@
 # Python Developer's Handbook
 
-A comprehensive Python reference and learning guide developed through hands-on study, practical projects, and real-world application.
+370-page Python Developer's Handbook covering Python fundamentals, Git & GitHub, data visualization, REST APIs, Django, and software development best practices.
 
 This handbook documents my journey through Python development while serving as a structured desktop reference covering both core programming concepts and modern development practices.
 
