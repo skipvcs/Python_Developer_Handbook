@@ -36,4 +36,11 @@ Rather than simply documenting syntax, it explains concepts, workflows, best pra
 The handbook is provided in PDF format for easy viewing and downloading.
 ---
 
-Author: **Robert "Skip" Voss**
+## Author
+
+**Skip Voss**
+
+Python Development • Automation • Technical Documentation
+
+GitHub: @skipvcs
+LinkedIn: linkedin.com/in/robert-skip-voss
